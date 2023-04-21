@@ -19,4 +19,4 @@ def new_year_greeting():
     return 'Happy New Year!'
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
